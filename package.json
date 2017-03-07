@@ -1,0 +1,14 @@
+{
+  "name": "gistia",
+  "version": "1.0.0",
+  "description": "A take-home test from Gistia",
+  "main": "gistia.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kieran Eglin",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
